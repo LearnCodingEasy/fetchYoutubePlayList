@@ -1,0 +1,2 @@
+::-webkit-scrollbar{width:1rem;background-color:#333}::-webkit-scrollbar-thumb{background-color:#bbb;border-radius:.25rem}body{border:.5rem solid red}.wrapper-main{border:.5rem solid blue}.wrapper-main .inner-main{display:grid;grid-template-columns:repeat(auto-fill, minmax(350px, 1fr));grid-gap:20px 20px;border:.5rem solid #080}.wrapper-main .inner-main .item{border:.5rem solid #000}.wrapper-main .inner-main .item iframe{width:100%;height:315px}
+/*# sourceMappingURL=style.css.map */
